@@ -47,5 +47,7 @@ textarea {
 
 /* Media query para telas menores que 450px */
 @media (max-width: 450px) {
-
+.answer-box {
+    width:300px;
+  }
 }
