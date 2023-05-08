@@ -40,7 +40,7 @@ function App() {
       <textarea
         className="text-box"
         id="text-box"
-        placeholder="Pergunte ao ChatGPT aqui.."
+        placeholder="Digite a sua pergunta ao ChatGPT aqui e tecle enter..."
         onKeyDown={(e) => handleSubmit(e)}
       ></textarea>
       <Footer></Footer>
